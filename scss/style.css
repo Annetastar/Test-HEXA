@@ -102,7 +102,7 @@
           display: block; }
           .main-block__navigation__nav__list_link > a:hover {
             color: #fff;
-            text-decoration: underline; }
+            text-decoration: none; }
         .main-block__navigation__nav__list_link:last-child a {
           border-right: none; }
   .main-block__presentation_about {
